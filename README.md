@@ -6,3 +6,4 @@ A simple C program that converts a number from base 10 to any other base.
 # License
 I mean... I think it's pretty self-explanatory.
 But, if you want to optionally give credit, I appreciate it.
+Also, check the source code for the "no warranty" clause.
